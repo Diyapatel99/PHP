@@ -1,3 +1,4 @@
+
 <?php
 include "con1.php";
 $q="insert into student(sid,sname,sadd)values(101,'abc','a1')";
